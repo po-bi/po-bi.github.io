@@ -1,0 +1,49 @@
+---
+layout: default
+title: Bildungsmaterial
+---
+<h1>Bildungsmaterial</h1>
+
+{% for rec in site.recommendations %}
+
+<h2>{{ rec.name }}</h2>
+
+<table>
+  <tr>
+    <td>Format</td>
+    <td>
+	  {% if rec.youtube %}
+	  <a href={{ rec.youtube }}>YouTube</a><!--
+	  -->{% assign tail = true %}<!--
+	  -->{% endif %}<!--youtube
+	  -->{% if rec.podcast %}<!--
+	  -->{% if tail %}<!--
+	  -->,
+	  {% endif %}<!--tail
+	  -->Podcast<!--
+	  -->{% assign tail = true %}<!--
+	  -->{% endif %}<!--podcast
+	  -->{% if rec.text %}<!--
+	  -->{% if tail %}<!--
+	  -->,
+	  {% endif %}
+	  <a href={{ rec.text }}>Text</a>
+	  {% endif %}
+	</td>
+  </tr>
+  <tr>
+    <td>Themen</td>
+    <td>
+	  {% for topic in rec.topics %}
+	  {{ topic }}{% if forloop.last %}{% else %},{% endif %}
+
+	  {% endfor %}
+	</td>
+  </tr>
+</table>
+
+
+<img src="/assets/images/{{- rec.short_name -}}.png" alt="">
+
+<p>{{ rec.content | markdownify }}</p>
+{% endfor %}
