@@ -8,10 +8,11 @@ title: Bildungsmaterial
 
 <h2>{{ rec.name }}</h2>
 
-<table>
-  <tr>
-    <td>Format</td>
-    <td>
+<dl>
+<dt>
+Format
+</dt>
+<dd>
 	  {% if rec.youtube %}
 	  <a href={{ rec.youtube }}>YouTube</a><!--
 	  -->{% assign tail = true %}<!--
@@ -29,18 +30,20 @@ title: Bildungsmaterial
 	  {% endif %}
 	  <a href={{ rec.text }}>Text</a>
 	  {% endif %}
-	</td>
-  </tr>
-  <tr>
-    <td>Themen</td>
-    <td>
+</dd>
+
+
+
+<dt>
+Themen
+</dt>
+<dd>
 	  {% for topic in rec.topics %}
 	  {{ topic }}{% if forloop.last %}{% else %},{% endif %}
 
 	  {% endfor %}
-	</td>
-  </tr>
-</table>
+</dd>
+</dl>
 
 
 <img src="/assets/images/{{- rec.short_name -}}.png" alt="">
