@@ -1,0 +1,33 @@
+// .grid-container {
+//   display: grid;
+//   grid-template-columns: repeat(2, 1fr);
+//   grid-template-rows: repeat(2, 1fr);
+//   grid-gap: 10px; /* add a 10px gap between cells */
+// }
+
+// .grid-item {
+// 	cursor: pointer
+// }
+.grid-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* optional */
+}
+
+.image {
+  width: 48%; /* adjust to fit your image size */
+  margin: 1%
+}
+
+// .site-logo {
+//   width: 10%;
+//   height: 100%;
+//   background-image: url("/assets/pobi.svg");
+//   background-repeat: no-repeat;
+//   background-position: left center;
+//   background-size: contain;
+// }
+/* You can also use calc() for a more dynamic width calculation */
+// .image {
+//   width: calc(100% / 2); /* adjust to fit your image size */
+// }
