@@ -22,7 +22,7 @@ title: Couch PoBi
 email: couch-pobi@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
 theme: just-the-docs
-# logo: "/assets/pobi.svg"
+logo: "/assets/pobi.svg"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
