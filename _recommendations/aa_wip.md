@@ -11,5 +11,6 @@ vone: P3cmjNrXWms
 vtwo: sgOo-bS7OJI
 vthree: AyAnOMTY2Lo
 vfour: l1cOCegTlG0
+featured: true
 ---
 “What is Politics?” bietet allgemeine politische Bildung, angefangen mit der Klärung häufig genutzter, aber selten definierter Begriffe wie "links" und "rechts". Das Ziel dabei ist, uns zu möglichst effektiven politischen Akteur:innen zu machen. Die Folgen bauen teilweise auf einander auf.

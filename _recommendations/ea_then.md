@@ -10,5 +10,6 @@ vone: leoBccWOZfo
 vtwo: w85nGQ_KUgE
 vthree: BQTXv5jm6s4
 vfour: -iwOTyv1gyY
+featured: true
 ---
 Bei "Then & Now" geht es hauptsächlich um Klassiker der Philosophie sowie um jüngere Geschichte, insbesondere von aktuellen Technologien.
