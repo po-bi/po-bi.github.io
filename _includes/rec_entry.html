@@ -1,0 +1,87 @@
+<h2>{{ rec.name }}</h2>
+
+<dl>
+<dt>
+Format
+</dt>
+<dd>
+	  {% if rec.youtube %}
+
+	  <a href={{ rec.youtube }}>YouTube</a><!--
+	  -->{% assign tail = true %}<!--
+	  -->{% endif %}<!--youtube
+	  -->{% if rec.podcast %}<!--
+	  -->{% if tail %}<!--
+	  -->,
+	  {% endif %}<!--tail
+	  -->Podcast<!--
+	  -->{% assign tail = true %}<!--
+	  -->{% endif %}<!--podcast
+	  -->{% if rec.text %}<!--
+	  -->{% if tail %}<!--
+	  -->,
+	  {% endif %}
+	  <a href={{ rec.text }}>Text</a>
+	  {% endif %}
+</dd>
+
+
+
+<dt>
+Themen
+</dt>
+<dd>
+	  {% for topic in rec.topics %}
+	  {{ topic }}{% if forloop.last %}{% else %},{% endif %}
+
+	  {% endfor %}
+</dd>
+</dl>
+
+
+
+
+{% if rec.vone %}
+<div class="grid-container">
+<div class="image">
+<a href="https://youtu.be/{{ rec.vone }}"><img src="http://img.youtube.com/vi/{{ rec.vone }}/0.jpg"/></a>
+  </div class="image">
+{% if rec.vtwo %}
+<div class="image">
+<a href="https://youtu.be/{{ rec.vtwo }}"><img src="http://img.youtube.com/vi/{{ rec.vtwo }}/0.jpg"/></a>
+  </div class="image">
+{% endif %}
+{% if rec.vthree %}
+<div class="image">
+<a href="https://youtu.be/{{ rec.vthree }}"><img src="http://img.youtube.com/vi/{{ rec.vthree }}/0.jpg"/></a>
+  </div class="image">
+{% endif %}
+{% if rec.vfour %}
+<div class="image">
+<a href="https://youtu.be/{{ rec.vfour }}"><img src="http://img.youtube.com/vi/{{ rec.vfour }}/0.jpg"/></a>
+  </div class="image">
+{% endif %}
+</div>
+
+{% elsif rec.pone %}
+
+<table>
+<tr><td>{{ rec.pone }}</td></tr>
+{% if rec.ptwo %}
+<tr><td>{{ rec.ptwo }}</td></tr>
+{% endif %}
+{% if rec.pthree %}
+<tr><td>{{ rec.pthree }}</td></tr>
+{% endif %}
+{% if rec.pfour %}
+<tr><td>{{ rec.pfour }}</td></tr>
+{% endif %}
+</table>
+
+{% endif %}
+
+
+</a>
+<!-- <img src="/assets/images/{{- rec.short_name -}}.png" alt=""> -->
+
+<p>{{ rec.content | markdownify }}</p>
