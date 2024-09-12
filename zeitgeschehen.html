@@ -1,0 +1,11 @@
+---
+layout: home
+title: Zeitgeschehen
+---
+
+<h1>Zeitgeschehen</h1>
+{% for rec in site.recommendations %}
+{% if rec.topics contains "Zeitgeschehen" %}
+{% include rec_entry.html %}
+{% endif %}
+{% endfor %}
