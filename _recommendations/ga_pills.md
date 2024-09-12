@@ -4,7 +4,7 @@ name: Plastic Pills
 language: Englisch
 youtube: https://www.youtube.com/@PlasticPills/featured
 podcast: true
-topics: [Philosophie, Kritische Theorie, Geschichte]
+topics: [Philosophie, Geschichte]
 vfour: ALnfkl_RkvA
 vthree: 8W2SEjhXGn4
 vtwo: RJLA2_Ho7X0

@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Philosophie & Kritische Theorie
+title: Philosophie
 ---
 
-<h1>Philosophie & Kritische Theorie</h1>
+<h1>Philosophie</h1>
 {% for rec in site.recommendations %}
-{% if rec.topics contains "Philosophie" or rec.topics contains "Kritische Theorie" %}
+{% if rec.topics contains "Philosophie" %}
 {% include rec_entry.html %}
 {% endif %}
 {% endfor %}

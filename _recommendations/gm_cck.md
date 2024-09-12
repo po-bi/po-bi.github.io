@@ -3,7 +3,7 @@ short_name: cck
 name: Jonas Čeika - CCK Philosophy
 language: Englisch
 youtube: https://www.youtube.com/@jonasceikaCCK/featured 
-topics: [Philosophie, Kritische Theorie, Geschichte, Kultur, Politik]
+topics: [Philosophie, Geschichte, Kultur, Politik]
 vone: 2B-EWxPyIf4
 vtwo: 4wCY9SqyVoo
 vthree: VT-bIYFdq9I

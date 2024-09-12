@@ -4,7 +4,7 @@ name: 1Dime
 language: Englisch
 youtube: https://www.youtube.com/@1Dimee/videos
 podcast: true
-topics: [Politik, Kritische Theorie, Geschichte, Wirtschaft]
+topics: [Politik, Philosophie, Geschichte, Wirtschaft]
 vfour: 9ZCoLbEkAqs
 vthree: 1FIzoxAm2IU
 vtwo: o8d6Vzi7zYg
