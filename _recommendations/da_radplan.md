@@ -5,7 +5,7 @@ language: Englisch
 youtube: https://www.youtube.com/@radicalplanning/featured
 podcast:
 text:
-topics: [Stadtplanung, Recht auf Stadt]
+topics: [Stadtplanung]
 vone: QHigcXE9ZzE
 vtwo: JfLAkxV1fhc
 vthree: eLRA-gIiRhA
