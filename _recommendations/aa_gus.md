@@ -3,7 +3,7 @@ short_name: gus
 name: GuS
 language: Deutsch
 youtube: https://www.youtube.com/@GuS200/featured
-topics: [Politik, Marxismus]
+topics: [Wirtschaft, Marxismus, Anarchismus]
 vfour: ydWAldmEY8A
 vthree: fvkKfUM_W1k
 vtwo: tmGDWgVEv5E
