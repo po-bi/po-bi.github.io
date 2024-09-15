@@ -5,7 +5,7 @@ language: Englisch
 youtube: https://www.youtube.com/@OurChangingClimate/featured
 podcast:
 text:
-topics: [Klima]
+topics: [Umwelt]
 image: /assets/images/occ.png
 vone: vF_Os4MNd-E
 vtwo: rWuJOcdXAAw
