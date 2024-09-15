@@ -4,6 +4,7 @@ name: Feine Welt
 language: Deutsch
 youtube: https://www.youtube.com/@feinewelt/featured 
 topics: [Philosophie, Politik, Wirtschaft]
+btopics: [Marxismus]
 vfour: jL0s0CGWpOg
 vthree: T6dvQDtcrb8
 vtwo: Lng3oeTDciU
