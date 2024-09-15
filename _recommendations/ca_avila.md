@@ -5,7 +5,7 @@ language: Englisch
 youtube: https://www.youtube.com/@alexander_avila/videos
 podcast:
 text:
-topics: [Queer-Theorie, Philosophie, Kultur]
+topics: [Patriarchat, Philosophie, Kultur]
 vone: Xi-HWyh0Ybk
 vtwo: 5yeyyEFp1J4
 vthree: QLWKYTxLYT4
