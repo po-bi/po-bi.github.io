@@ -5,7 +5,6 @@ language: Englisch
 youtube: https://www.youtube.com/@1Dimee/videos
 podcast: true
 topics: [Politik, Philosophie, Geschichte, Wirtschaft]
-btopics: [Marxismus]
 vfour: 9ZCoLbEkAqs
 vthree: 1FIzoxAm2IU
 vtwo: o8d6Vzi7zYg
