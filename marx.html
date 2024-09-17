@@ -1,0 +1,11 @@
+---
+layout: home
+title: Marxismus
+---
+
+<h1>Marxismus</h1>
+{% for rec in site.recommendations %}
+{% if rec.topics contains "Marxismus" or rec.btopics contains "Marxismus" %}
+{% include rec_entry.html %}
+{% endif %}
+{% endfor %}
