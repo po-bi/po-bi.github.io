@@ -1,0 +1,11 @@
+---
+layout: home
+title: Anarchismus
+---
+
+<h1>Anarchismus</h1>
+{% for rec in site.recommendations %}
+{% if rec.topics contains "Anarchismus" or rec.btopics contains "Anarchismus" %}
+{% include rec_entry.html %}
+{% endif %}
+{% endfor %}
