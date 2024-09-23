@@ -6,6 +6,8 @@ title: Philosophie
 <h1>Philosophie</h1>
 {% for rec in site.recommendations %}
 {% if rec.topics contains "Philosophie" %}
+{% unless rec.short_name == "1dima" %}
 {% include rec_entry.html %}
+{% endunless %}
 {% endif %}
 {% endfor %}
