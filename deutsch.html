@@ -1,0 +1,11 @@
+---
+layout: home
+title: Deutschsprachig
+---
+
+<h1>Anarchismus</h1>
+{% for rec in site.recommendations %}
+{% if rec.language == "Deutsch" %}
+{% include rec_entry.html %}
+{% endif %}
+{% endfor %}
