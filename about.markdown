@@ -6,7 +6,7 @@ permalink: /about/
 
 Couch PoBi ist ein Web-Projekt mit dem Ziel, audiovisuelle politische Bildungsmaterialien von unabhängigen Creatorn zu verbreiten.
 
-Für Feedback und Diskussion gibt es eine [Hubzilla-Gruppe](https://im.allmendenetz.de/channel/pobi). [Hubzilla](https://hubzilla.org/page/info/discover) ist ein föderiertes, open-source, soziales Netzwerk. Es ist eine Facebook-Alternative wie [Mastodon](https://joinmastodon.org/) eine Twitter-Alternative ist.
+Für Feedback und Diskussion gibt es eine [Hubzilla-Gruppe](https://im.allmendenetz.de/channel/pobi). [Hubzilla](https://hubzilla.org/page/info/discover) ist ein föderiertes, open-source, soziales Netzwerk. Es ist eine Facebook-Alternative wie [Mastodon](https://joinmastodon.org/) eine Twitter-Alternative ist. Hubzilla wird ehrenamtlich d.h. als Selbstzweck betrieben, während etablierte "soziale" Medien nur Mittel zwecks Kapitalakkumulation sind. Das Ziel ehrenamtlich betriebener sozialer Medien ist die Befriedigung des Bedürfnisses nach sozialen Medien. Das Ziel kommerziell betriebener "sozialer" Medien ist hingegen die Schaffung des Bedürfnisses nach sozialen Medien.
 
 couch-pobi[at]proton.me
 
