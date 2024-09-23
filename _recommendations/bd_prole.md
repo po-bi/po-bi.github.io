@@ -9,4 +9,4 @@ vthree: QV-chUKWAvA
 vtwo: ZqVDLK1ROSk
 vone: QO-7cymgtqo
 ---
-Prolekult machen auf der einen Seite längere Dokumentationen und auf der Anderen die Reihe "Approaching Marxism". Hier werden in kurzen Videos marxistische Konzepte eingeführt, kritisiert und eingeordnet um die Unvollständigkeit solch kurzer Einleitungen deutlich zu machen.
+Prolekult machen neben längeren Videos zum Kapitalismus und seinen Auswirkungen auch die Reihe "Approaching Marxism". Hier werden in kurzen Videos marxistische Konzepte eingeführt, kritisiert und eingeordnet um die Unvollständigkeit solch kurzer Einleitungen zu verdeutlichen.
