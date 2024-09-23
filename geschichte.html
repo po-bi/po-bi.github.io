@@ -6,6 +6,8 @@ title: Geschichte
 <h1>Geschichte</h1>
 {% for rec in site.recommendations %}
 {% if rec.topics contains "Geschichte" %}
+{% unless rec.short_name == "1dima" %}
 {% include rec_entry.html %}
+{% endunless %}
 {% endif %}
 {% endfor %}
