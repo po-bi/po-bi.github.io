@@ -1,5 +1,5 @@
 ---
-short_name: 1dime
+short_name: 1dima
 name: 1Dime
 language: Englisch
 youtube: https://www.youtube.com/@1Dimee/videos
