@@ -15,4 +15,4 @@ ptwo: "David Laibman on Multilevel Democratic Iterative Coordination"
 pone: "Simon Schaupp zu Kybernetik und radikaler Demokratie"
 featured: true
 ---
-Future Histories, "der Podcast zur Erweiterung unserer Vorstellung von Zukunft", befasst sich mit der Frage, wie genau eine postkapitalistische Gesellschaft funktionieren könnte. Manche Folgen sind auf Englisch. Auf dem YouTube-Kanal gibt es zusätzlich zu den Podcast-Folgen ein Paar Kurzvideos zu wiederkehrenden Konzepten.
+Future Histories, "der Podcast zur Erweiterung unserer Vorstellung von Zukunft", befasst sich mit der Frage, wie genau eine postkapitalistische Gesellschaft aussehen könnte. Manche Folgen sind auf Englisch. Auf dem YouTube-Kanal gibt es zusätzlich zu den Podcast-Folgen ein Paar Kurzvideos zu wiederkehrenden Konzepten.
