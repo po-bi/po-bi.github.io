@@ -25,7 +25,7 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo-data"
 end
 
-gem "just-the-docs", "0.9.0" # pinned to the current release
+gem "just-the-docs", "0.10.0" # pinned to the current release
 # gem "just-the-docs"        # always download the latest release
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
