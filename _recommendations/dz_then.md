@@ -12,4 +12,4 @@ vthree: BQTXv5jm6s4
 vfour: -iwOTyv1gyY
 featured: true
 ---
-Bei Then & Now geht es hauptsächlich um Klassiker der Philosophie sowie um jüngere, zeitgeist-relevante Geschichte.
+Bei Then & Now geht es hauptsächlich um Klassiker der Philosophie sowie um neuere und neuste Geschichte.
