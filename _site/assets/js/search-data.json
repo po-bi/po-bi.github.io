@@ -1,51 +1,562 @@
 {"0": {
-    "doc": "Bildungsmaterial",
-    "title": "Bildungsmaterial",
-    "content": " ",
-    "url": "/",
+    "doc": "About",
+    "title": "About",
+    "content": "Couch PoBi ist ein Web-Projekt mit dem Ziel, audiovisuelle politische Bildungsmaterialien von unabhängigen Creatorn zu verbreiten. Für Feedback und Diskussion gibt es eine Hubzilla-Gruppe. Hubzilla ist ein föderiertes, open-source, soziales Netzwerk. Es ist eine Facebook-Alternative wie Mastodon eine Twitter-Alternative ist. Hubzilla wird ehrenamtlich d.h. als Selbstzweck betrieben, während etablierte “soziale” Medien nur Mittel zwecks Kapitalakkumulation sind. Das Ziel ehrenamtlich betriebener sozialer Medien ist die Befriedigung des Bedürfnisses nach sozialen Medien. Das Ziel kommerziell betriebener “sozialer” Medien ist hingegen die Schaffung des Bedürfnisses nach sozialen Medien. couch-pobi[at]proton.me . ",
+    "url": "/about/",
     
-    "relUrl": "/"
+    "relUrl": "/about/"
   },"1": {
-    "doc": "Bildungsmaterial",
-    "title": "What is Politics?",
-    "content": "Format YouTube, Podcast, Text Themen Politik, Anthropologie “What is Politics?” bietet allgemeine politische Bildung. Das Ziel ist, uns zu möglichst effektiven politischen Akteur:innen zu machen. Die Folgen bauen teilweise auf einander auf und fangen quasi bei Null an. ",
-    "url": "/",
+    "doc": "Anarchismus",
+    "title": "Anarchismus",
+    "content": " ",
+    "url": "/anarch.html",
     
-    "relUrl": "/"
+    "relUrl": "/anarch.html"
   },"2": {
-    "doc": "Bildungsmaterial",
-    "title": "Our Changing Climate",
-    "content": "Format YouTube Themen Klima Bei Our Changing Climate geht es um alles rund ums Klima. ",
-    "url": "/",
+    "doc": "Anarchismus",
+    "title": "Anark",
+    "content": "Format YouTube Themen Anarchismus Anark vertritt einen “modernen Anarchismus”. Er macht Videos zu selbiger Theorie, zeitgenössischen libertären Bewegungen und “seiner” Genossenschaft Cooperation Tulsa. ",
+    "url": "/anarch.html",
     
-    "relUrl": "/"
+    "relUrl": "/anarch.html"
   },"3": {
-    "doc": "Bildungsmaterial",
-    "title": "Alexander Avila",
-    "content": "Format YouTube Themen Queer-Theorie, Kritische Theorie, Popkultur Alexander Avila verpackt die Einsichten der “unzugänglichsten” Denker:innen in Nostalgie und Popkultur. ",
-    "url": "/",
+    "doc": "Anarchismus",
+    "title": "AnRel",
+    "content": "Format YouTube Themen Anarchismus, Patriarchat Der kurzlebige Kanal AnRel (Anarcho-Relating) machte Videos zu Anarchismus und Beziehungsanarchie. Hier sind fast alle aufgeführt. ",
+    "url": "/anarch.html",
     
-    "relUrl": "/"
+    "relUrl": "/anarch.html"
   },"4": {
-    "doc": "Bildungsmaterial",
-    "title": "Radical Planning",
-    "content": "Format YouTube Themen Stadtplanung, Recht auf Stadt Radical Planning bietet eine radikale (linke) Perspektive auf das Thema Stadt. ",
-    "url": "/",
+    "doc": "Anarchismus",
+    "title": "Andrewism",
+    "content": "Format YouTube Themen Anarchismus, Kolonialismus, Rassismus, Umwelt Andrewism ist ein anarchistischer YouTube-Kanal mit besonderem Fokus auf Umwelt und Dekolonisation. ",
+    "url": "/anarch.html",
     
-    "relUrl": "/"
+    "relUrl": "/anarch.html"
   },"5": {
-    "doc": "Bildungsmaterial",
+    "doc": "Anarchismus",
+    "title": "What is Politics?",
+    "content": "Format YouTube, Podcast, Text Themen Politik, Anthropologie “What is Politics?” leistet allgemeine politische Bildung, angefangen mit der Klärung häufig genutzter, aber selten definierter Begriffe wie “links” und “rechts”. Das Ziel dabei ist, uns zu möglichst effektiven politischen Akteur:innen zu machen. Seine libertär-materialistische Analyse dürfte sowohl einer anarchistischen als auch einer marxistischen Bildung zuträglich sein, obwohl er sich zu keinem Label bekennt. ",
+    "url": "/anarch.html",
+    
+    "relUrl": "/anarch.html"
+  },"6": {
+    "doc": "Anarchismus",
+    "title": "LuckyBlackCat",
+    "content": "Format YouTube Themen Politik, Wirtschaft LuckyBlackCat vertritt einen libertären Sozialismus und versucht dabei relativ viel Humor in ihre Videos einzubauen. ",
+    "url": "/anarch.html",
+    
+    "relUrl": "/anarch.html"
+  },"7": {
+    "doc": "Anarchismus",
+    "title": "Dario",
+    "content": "Format YouTube Themen Wirtschaft, Marxismus, Anarchismus Dario ist ein deutschsprachiger Kanal, der die Basics des Sozialismus aus primär aber nicht exklusiv marxistischer Perspektive erklärt. ",
+    "url": "/anarch.html",
+    
+    "relUrl": "/anarch.html"
+  },"8": {
+    "doc": "Anarchismus",
+    "title": "Radical Reviewer",
+    "content": "Format YouTube Themen Anarchismus, Marxismus Radical Reviewer macht Zusammenfassungen von meist sozialistischen Büchern. ",
+    "url": "/anarch.html",
+    
+    "relUrl": "/anarch.html"
+  },"9": {
+    "doc": "Anarchismus",
+    "title": "99 zu Eins",
+    "content": "Format YouTube, Podcast Themen Zeitgeschehen, Geschichte, Politik, Kultur, Marxismus, Anarchismus | The Zone of Interest - Kulturgedöns | . | Anarchismus & Marxismus - Voneinander lernen? | . | Zum Gaza-Krieg mit Nadim | . | [ENG] Postcolinialism? The Postcolonial Debate w/ Michael Kuhn | . 99 zu Eins ist ein linker Podcast zu Zeitgeschehen, Geschichte, Kultur und Theorie. ",
+    "url": "/anarch.html",
+    
+    "relUrl": "/anarch.html"
+  },"10": {
+    "doc": "Anarchismus",
+    "title": "Übertage",
+    "content": "Format YouTube, Podcast Themen Zeitgeschehen, Anarchismus, Geschichte, Politik, Kultur | Fünf Säulen gegen die AFD - unsere Meinung | . | über den Kulturkampf | . | Überdeutlich: zum demokratischen Konföderalismus | . | Überblick: Wahlen im Osten, Generalstreik in Israel, Anschlag in München | . Übertage ist ein anarchistischer Podcast zu Zeitgeschehen, Geschichte, Kultur und Theorie. ",
+    "url": "/anarch.html",
+    
+    "relUrl": "/anarch.html"
+  },"11": {
+    "doc": "Deutschsprachig",
+    "title": "Deutschsprachig",
+    "content": " ",
+    "url": "/deutsch.html",
+    
+    "relUrl": "/deutsch.html"
+  },"12": {
+    "doc": "Deutschsprachig",
+    "title": "Wohlstand für Alle",
+    "content": "Format YouTube, Podcast Themen Zeitgeschehen, Politik, Wirtschaft, Kultur | Rettet das 9-Euro-Ticket! | . | Wie FUNK junge Leute verblödet | . | VOLT: die FDP für Hipster? | . | Ausverkauf der Ukraine: Was nach dem Krieg droht! | . Wohlstand für Alle ist ein Podcast zu aktuellen politischen und wirtschaftlichen Fragen. Außerdem gibt es jeden Monat eine Folge, in der berühmte literarische Werke besprochen werden. ",
+    "url": "/deutsch.html",
+    
+    "relUrl": "/deutsch.html"
+  },"13": {
+    "doc": "Deutschsprachig",
+    "title": "Feine Welt",
+    "content": "Format YouTube Themen Philosophie, Politik, Wirtschaft Dieser mittlerweile inaktive Kanal machte deutschsprachige Videos zu Philosophie und klassischer politischer Theorie. ",
+    "url": "/deutsch.html",
+    
+    "relUrl": "/deutsch.html"
+  },"14": {
+    "doc": "Deutschsprachig",
+    "title": "Dario",
+    "content": "Format YouTube Themen Wirtschaft, Marxismus, Anarchismus Dario ist ein deutschsprachiger Kanal, der die Basics des Sozialismus aus primär aber nicht exklusiv marxistischer Perspektive erklärt. ",
+    "url": "/deutsch.html",
+    
+    "relUrl": "/deutsch.html"
+  },"15": {
+    "doc": "Deutschsprachig",
+    "title": "Future Histories",
+    "content": "Format YouTube, Podcast Themen Wirtschaft, Politik | Simon Schaupp zu Kybernetik und radikaler Demokratie | . | David Laibman on Multilevel Democratic Iterative Coordination | . | Heide Lutosch zu feministischem Utopisieren in der Planungsdebatte | . | Alex Demirovic zu sozialistischer Gouvernementalität, (Re-)produktion und Rätedemokratie | . Future Histories, “der Podcast zur Erweiterung unserer Vorstellung von Zukunft”, befasst sich mit der Frage, wie genau eine postkapitalistische Gesellschaft aussehen könnte. Manche Folgen sind auf Englisch. Auf dem YouTube-Kanal gibt es neben den Podcast-Folgen auch einige Kurzvideos zu wiederkehrenden Konzepten. ",
+    "url": "/deutsch.html",
+    
+    "relUrl": "/deutsch.html"
+  },"16": {
+    "doc": "Deutschsprachig",
+    "title": "99 zu Eins",
+    "content": "Format YouTube, Podcast Themen Zeitgeschehen, Geschichte, Politik, Kultur, Marxismus, Anarchismus | The Zone of Interest - Kulturgedöns | . | Anarchismus & Marxismus - Voneinander lernen? | . | Zum Gaza-Krieg mit Nadim | . | [ENG] Postcolinialism? The Postcolonial Debate w/ Michael Kuhn | . 99 zu Eins ist ein linker Podcast zu Zeitgeschehen, Geschichte, Kultur und Theorie. ",
+    "url": "/deutsch.html",
+    
+    "relUrl": "/deutsch.html"
+  },"17": {
+    "doc": "Deutschsprachig",
+    "title": "Übertage",
+    "content": "Format YouTube, Podcast Themen Zeitgeschehen, Anarchismus, Geschichte, Politik, Kultur | Fünf Säulen gegen die AFD - unsere Meinung | . | über den Kulturkampf | . | Überdeutlich: zum demokratischen Konföderalismus | . | Überblick: Wahlen im Osten, Generalstreik in Israel, Anschlag in München | . Übertage ist ein anarchistischer Podcast zu Zeitgeschehen, Geschichte, Kultur und Theorie. ",
+    "url": "/deutsch.html",
+    
+    "relUrl": "/deutsch.html"
+  },"18": {
+    "doc": "Geschichte",
+    "title": "Geschichte",
+    "content": " ",
+    "url": "/geschichte.html",
+    
+    "relUrl": "/geschichte.html"
+  },"19": {
+    "doc": "Geschichte",
+    "title": "Fredda",
+    "content": "Format YouTube Themen Geschichte Fredda ist ein Geschichts-YouTuber, der einige Videos ganz der Kritik anderer Geschichts-YouTuber widmet. ",
+    "url": "/geschichte.html",
+    
+    "relUrl": "/geschichte.html"
+  },"20": {
+    "doc": "Geschichte",
+    "title": "Guerilla History",
+    "content": "Format YouTube, Podcast Themen Geschichte, Kolonialismus | Intro to African Revolutions and Decolonization w/ Leo Zeilig | . | USAID w/ Radio Free Amanda | . | Ibn Khaldun - \"The Father of Sociology\" | . | Sanctions & Nation-Breaking Yugoslavia w/ Gregory Elich | . Guerilla History ist eine Geschichts-Podcast mit Fokus auf Imperialismus und Kolonialismus. ",
+    "url": "/geschichte.html",
+    
+    "relUrl": "/geschichte.html"
+  },"21": {
+    "doc": "Geschichte",
+    "title": "1Dime",
+    "content": "Format YouTube, Podcast Themen Politik, Philosophie, Geschichte, Wirtschaft 1Dime’s Output ist relativ divers. Zwei nennenswerte Schwerpunkte sind Geld- und Demokratietheorie. Neben dem YouTube-Kanal gibt es den Podcast 1Dime Radio. ",
+    "url": "/geschichte.html",
+    
+    "relUrl": "/geschichte.html"
+  },"22": {
+    "doc": "Geschichte",
+    "title": "Intelexual Media",
+    "content": "Format YouTube Themen Geschichte, Rassismus Intelexual Media macht Geschichts-Videos mit Fokus auf Sexualität und Schwarz-amerikanische Geschichte. ",
+    "url": "/geschichte.html",
+    
+    "relUrl": "/geschichte.html"
+  },"23": {
+    "doc": "Geschichte",
+    "title": "Sam Aronow",
+    "content": "Format YouTube Themen Geschichte Sam Aronow macht Videos zu jüdischer Geschichte. ",
+    "url": "/geschichte.html",
+    
+    "relUrl": "/geschichte.html"
+  },"24": {
+    "doc": "Geschichte",
     "title": "Then & Now",
-    "content": "Format YouTube Themen Philosophie, Geschichte Neben “Klassikern” der Philosophie geht es bei Then &amp; Now u.A. um die Geschichte moderner Technologien wie “KI” und dem Internet sowie deren Einfluss auf den Zeitgeist. ",
+    "content": "Format YouTube Themen Philosophie, Geschichte Bei Then &amp; Now geht es hauptsächlich um Klassiker der Philosophie sowie um jüngere, zeitgeist-relevante Geschichte. ",
+    "url": "/geschichte.html",
+    
+    "relUrl": "/geschichte.html"
+  },"25": {
+    "doc": "Geschichte",
+    "title": "Revolutionary Left Radio",
+    "content": "Format YouTube, Podcast Themen Marxismus, Philosophie, Spiritualität/Religion, Geschichte | Early Christianity: Psychedelics, Ancient Greece, and the Emerging Church | . | Crossing the Threshold: The Post Kantian Process Philosophy of Schelling and Whitehead | . | Islam and Anarchism with Mohamed Abdou | . | Dialectics & Liberation: Insights from Buddhism and Marxism | . Revolutionary Left Radio ist ein linker Podcast, der genauso viel Wert auf Philosophie, Spiritualität und deren Geschichte legt, wie auf typisch politische Bildung. ",
+    "url": "/geschichte.html",
+    
+    "relUrl": "/geschichte.html"
+  },"26": {
+    "doc": "Geschichte",
+    "title": "The Marxist Project",
+    "content": "Format YouTube Themen Marxismus, Geschichte, Philosophie The Marxist Project macht verschiedene Video-Reihen zu Grundlagen des Marxismus, Marxismus nach Marx, Geschichte der Soviet Union etc. ",
+    "url": "/geschichte.html",
+    
+    "relUrl": "/geschichte.html"
+  },"27": {
+    "doc": "Geschichte",
+    "title": "Plastic Pills",
+    "content": "Format YouTube, Podcast Themen Philosophie, Geschichte Plastic Pills macht hauptsächlich Videos zu sogenannten postmodernen Theorien. Ein paar Videos zu lateinamerikanischer Geschichte bilden die Ausnahme. Außerdem betreibt Plastic Pills zusammen mit 3 weiteren Co-Hosts den Podcast Pill Pod. ",
+    "url": "/geschichte.html",
+    
+    "relUrl": "/geschichte.html"
+  },"28": {
+    "doc": "Geschichte",
+    "title": "Jonas Čeika - CCK Philosophy",
+    "content": "Format YouTube Themen Philosophie, Geschichte, Kultur, Politik Jonas Čeika - CCK Philosophy macht Videos über Kunst, Politik und Geschichte. Allein der deutschen Novemberrevolution von 1918-1919 hat er drei einstündige Videos gewidmet. ",
+    "url": "/geschichte.html",
+    
+    "relUrl": "/geschichte.html"
+  },"29": {
+    "doc": "Geschichte",
+    "title": "Tom Nicholas",
+    "content": "Format YouTube Themen Politik, Wirtschaft, Zeitgeschehen, Kultur, Geschichte Tom Nicholas macht politische Video-Essays zu aktuellen Trends und Kontroversen. ",
+    "url": "/geschichte.html",
+    
+    "relUrl": "/geschichte.html"
+  },"30": {
+    "doc": "Geschichte",
+    "title": "99 zu Eins",
+    "content": "Format YouTube, Podcast Themen Zeitgeschehen, Geschichte, Politik, Kultur, Marxismus, Anarchismus | The Zone of Interest - Kulturgedöns | . | Anarchismus & Marxismus - Voneinander lernen? | . | Zum Gaza-Krieg mit Nadim | . | [ENG] Postcolinialism? The Postcolonial Debate w/ Michael Kuhn | . 99 zu Eins ist ein linker Podcast zu Zeitgeschehen, Geschichte, Kultur und Theorie. ",
+    "url": "/geschichte.html",
+    
+    "relUrl": "/geschichte.html"
+  },"31": {
+    "doc": "Geschichte",
+    "title": "Übertage",
+    "content": "Format YouTube, Podcast Themen Zeitgeschehen, Anarchismus, Geschichte, Politik, Kultur | Fünf Säulen gegen die AFD - unsere Meinung | . | über den Kulturkampf | . | Überdeutlich: zum demokratischen Konföderalismus | . | Überblick: Wahlen im Osten, Generalstreik in Israel, Anschlag in München | . Übertage ist ein anarchistischer Podcast zu Zeitgeschehen, Geschichte, Kultur und Theorie. ",
+    "url": "/geschichte.html",
+    
+    "relUrl": "/geschichte.html"
+  },"32": {
+    "doc": "Featured",
+    "title": "Featured",
+    "content": "Hier sind einige empfehlenswerte Podcasts und YouTube-Kanäle. Vom Menü aus sind zu manchen Themen weitere Empfehlungen erreichbar. ",
     "url": "/",
     
     "relUrl": "/"
-  },"6": {
-    "doc": "Bildungsmaterial",
+  },"33": {
+    "doc": "Featured",
+    "title": "Dario",
+    "content": "Format YouTube Themen Wirtschaft, Marxismus, Anarchismus Dario ist ein deutschsprachiger Kanal, der die Basics des Sozialismus aus primär aber nicht exklusiv marxistischer Perspektive erklärt. ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"34": {
+    "doc": "Featured",
+    "title": "Our Changing Climate",
+    "content": "Format YouTube Themen Umwelt Bei Our Changing Climate geht es um alles rund ums Klima. ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"35": {
+    "doc": "Featured",
+    "title": "Alexander Avila",
+    "content": "Format YouTube Themen Patriarchat, Philosophie, Kultur Alexander Avila verpackt die Einsichten der unzugänglichsten Denker:innen in Nostalgie und Popkultur. ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"36": {
+    "doc": "Featured",
     "title": "Dr. Fatima",
     "content": "Format YouTube Themen Wissenschaft, Physik Dr. Fatima problematisiert die Wissenschaft und ihre Institutionen, aber teilweise geht es tatsächlich auch um Physik. ",
     "url": "/",
     
     "relUrl": "/"
+  },"37": {
+    "doc": "Featured",
+    "title": "What is Politics?",
+    "content": "Format YouTube, Podcast, Text Themen Politik, Anthropologie “What is Politics?” leistet allgemeine politische Bildung, angefangen mit der Klärung häufig genutzter, aber selten definierter Begriffe wie “links” und “rechts”. Das Ziel dabei ist, uns zu möglichst effektiven politischen Akteur:innen zu machen. ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"38": {
+    "doc": "Featured",
+    "title": "Then & Now",
+    "content": "Format YouTube Themen Philosophie, Geschichte Bei Then &amp; Now geht es hauptsächlich um Klassiker der Philosophie sowie um jüngere, zeitgeist-relevante Geschichte. ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"39": {
+    "doc": "Featured",
+    "title": "Radical Planning",
+    "content": "Format YouTube Themen Stadtplanung Radical Planning bietet eine radikale (linke) Perspektive auf das Thema Stadt. ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"40": {
+    "doc": "Featured",
+    "title": "Tom Nicholas",
+    "content": "Format YouTube Themen Politik, Wirtschaft, Zeitgeschehen, Kultur, Geschichte Tom Nicholas macht politische Video-Essays zu aktuellen Trends und Kontroversen. ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"41": {
+    "doc": "Featured",
+    "title": "Unlearning Economics",
+    "content": "Format YouTube Themen Wirtschaft Unlearning Economics macht Ökonomie-Videos aus postkeynesianischer Perspektive. ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"42": {
+    "doc": "Featured",
+    "title": "Future Histories",
+    "content": "Format YouTube, Podcast Themen Wirtschaft, Politik | Simon Schaupp zu Kybernetik und radikaler Demokratie | . | David Laibman on Multilevel Democratic Iterative Coordination | . | Heide Lutosch zu feministischem Utopisieren in der Planungsdebatte | . | Alex Demirovic zu sozialistischer Gouvernementalität, (Re-)produktion und Rätedemokratie | . Future Histories, “der Podcast zur Erweiterung unserer Vorstellung von Zukunft”, befasst sich mit der Frage, wie genau eine postkapitalistische Gesellschaft aussehen könnte. Manche Folgen sind auf Englisch. Auf dem YouTube-Kanal gibt es neben den Podcast-Folgen auch einige Kurzvideos zu wiederkehrenden Konzepten. ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"43": {
+    "doc": "Marxismus",
+    "title": "Marxismus",
+    "content": " ",
+    "url": "/marx.html",
+    
+    "relUrl": "/marx.html"
+  },"44": {
+    "doc": "Marxismus",
+    "title": "Second Thought",
+    "content": "Format YouTube Themen Politik, Wirtschaft, Zeitgeschehen, Marxismus Second Thought macht Videos zu Politik, Wirtschaft und Zeitgeschehen aus marxistischer Perspektive. ",
+    "url": "/marx.html",
+    
+    "relUrl": "/marx.html"
+  },"45": {
+    "doc": "Marxismus",
+    "title": "What is Politics?",
+    "content": "Format YouTube, Podcast, Text Themen Politik, Anthropologie “What is Politics?” leistet allgemeine politische Bildung, angefangen mit der Klärung häufig genutzter, aber selten definierter Begriffe wie “links” und “rechts”. Das Ziel dabei ist, uns zu möglichst effektiven politischen Akteur:innen zu machen. Seine libertär-materialistische Analyse dürfte sowohl einer anarchistischen als auch einer marxistischen Bildung zuträglich sein, obwohl er sich zu keinem Label bekennt. ",
+    "url": "/marx.html",
+    
+    "relUrl": "/marx.html"
+  },"46": {
+    "doc": "Marxismus",
+    "title": "Feine Welt",
+    "content": "Format YouTube Themen Philosophie, Politik, Wirtschaft Dieser mittlerweile inaktive Kanal machte deutschsprachige Videos zu Philosophie und klassischer politischer Theorie. ",
+    "url": "/marx.html",
+    
+    "relUrl": "/marx.html"
+  },"47": {
+    "doc": "Marxismus",
+    "title": "Dario",
+    "content": "Format YouTube Themen Wirtschaft, Marxismus, Anarchismus Dario ist ein deutschsprachiger Kanal, der die Basics des Sozialismus aus primär aber nicht exklusiv marxistischer Perspektive erklärt. ",
+    "url": "/marx.html",
+    
+    "relUrl": "/marx.html"
+  },"48": {
+    "doc": "Marxismus",
+    "title": "JohntheDuncan",
+    "content": "Format YouTube Themen Marxismus, Patriarchat, Kultur JohntheDuncan beleuchtet Menschen- und Völkerrechte aus marxistischer Perspektive. Halb-ironische Filmanalysen bilden die Ausnahme. ",
+    "url": "/marx.html",
+    
+    "relUrl": "/marx.html"
+  },"49": {
+    "doc": "Marxismus",
+    "title": "F.D Signifier",
+    "content": "Format YouTube Themen Rassismus, Patriarchat, Kultur, Politik, Marxismus F.D Signifier macht Videos zu politischen und kulturellen Themen, oft mit spezifischem Bezug zu Schwarzer Männlichkeit. ",
+    "url": "/marx.html",
+    
+    "relUrl": "/marx.html"
+  },"50": {
+    "doc": "Marxismus",
+    "title": "Prolekult",
+    "content": "Format YouTube Themen Marxismus Prolekult machen neben längeren Videos zum Kapitalismus und seinen Auswirkungen auch die Reihe “Approaching Marxism”. Hier werden in kurzen Videos marxistische Konzepte eingeführt, kritisiert und eingeordnet um die Unvollständigkeit solch kurzer Einleitungen zu verdeutlichen. ",
+    "url": "/marx.html",
+    
+    "relUrl": "/marx.html"
+  },"51": {
+    "doc": "Marxismus",
+    "title": "Radical Reviewer",
+    "content": "Format YouTube Themen Anarchismus, Marxismus Radical Reviewer macht Zusammenfassungen von meist sozialistischen Büchern. ",
+    "url": "/marx.html",
+    
+    "relUrl": "/marx.html"
+  },"52": {
+    "doc": "Marxismus",
+    "title": "1Dime",
+    "content": "Format YouTube, Podcast Themen Politik, Philosophie, Geschichte, Wirtschaft 1Dime’s Output ist relativ divers. Zwei nennenswerte Schwerpunkte sind Geld- und Demokratietheorie. Neben dem YouTube-Kanal gibt es den Podcast 1Dime Radio. 1Dime versucht, Schwachstellen des Marxismus mithilfe anderer Theorien auszubessern. ",
+    "url": "/marx.html",
+    
+    "relUrl": "/marx.html"
+  },"53": {
+    "doc": "Marxismus",
+    "title": "Revolutionary Left Radio",
+    "content": "Format YouTube, Podcast Themen Marxismus, Philosophie, Spiritualität/Religion, Geschichte | Early Christianity: Psychedelics, Ancient Greece, and the Emerging Church | . | Crossing the Threshold: The Post Kantian Process Philosophy of Schelling and Whitehead | . | Islam and Anarchism with Mohamed Abdou | . | Dialectics & Liberation: Insights from Buddhism and Marxism | . Revolutionary Left Radio ist ein linker Podcast, der genauso viel Wert auf Philosophie, Spiritualität und deren Geschichte legt, wie auf typisch politische Bildung. ",
+    "url": "/marx.html",
+    
+    "relUrl": "/marx.html"
+  },"54": {
+    "doc": "Marxismus",
+    "title": "The Marxist Project",
+    "content": "Format YouTube Themen Marxismus, Geschichte, Philosophie The Marxist Project macht verschiedene Video-Reihen zu Grundlagen des Marxismus, Marxismus nach Marx, Geschichte der Soviet Union etc. ",
+    "url": "/marx.html",
+    
+    "relUrl": "/marx.html"
+  },"55": {
+    "doc": "Marxismus",
+    "title": "99 zu Eins",
+    "content": "Format YouTube, Podcast Themen Zeitgeschehen, Geschichte, Politik, Kultur, Marxismus, Anarchismus | The Zone of Interest - Kulturgedöns | . | Anarchismus & Marxismus - Voneinander lernen? | . | Zum Gaza-Krieg mit Nadim | . | [ENG] Postcolinialism? The Postcolonial Debate w/ Michael Kuhn | . 99 zu Eins ist ein linker Podcast zu Zeitgeschehen, Geschichte, Kultur und Theorie. ",
+    "url": "/marx.html",
+    
+    "relUrl": "/marx.html"
+  },"56": {
+    "doc": "Marxismus",
+    "title": "Red Enlightenment",
+    "content": "Format Podcast Themen Philosophie, Spiritualität/Religion, Wissenschaft, Marxismus | Reclaiming Enlightenment | . | Spirituality | . | Science | . | Ethics | . Red Enlightenment ist eine 8-teilige Podcast mit dem Ziel, eine linke Spiritualität und Religionsoffenheit zu kultivieren. Spiritualität und Religion, so der Autor, adressieren Bedürfnisse, die durch materielle gesellschaftliche Transformation nicht gedeckt werden können. Somit sei es ein Fehler, sich davon abzuschotten, während Rechte sich dessen bedienen. Die Podcast ist nur auf Soundcloud erhältlich. ",
+    "url": "/marx.html",
+    
+    "relUrl": "/marx.html"
+  },"57": {
+    "doc": "Philosophie",
+    "title": "Philosophie",
+    "content": " ",
+    "url": "/philo.html",
+    
+    "relUrl": "/philo.html"
+  },"58": {
+    "doc": "Philosophie",
+    "title": "Feine Welt",
+    "content": "Format YouTube Themen Philosophie, Politik, Wirtschaft Dieser mittlerweile inaktive Kanal machte deutschsprachige Videos zu Philosophie und klassischer politischer Theorie. ",
+    "url": "/philo.html",
+    
+    "relUrl": "/philo.html"
+  },"59": {
+    "doc": "Philosophie",
+    "title": "Wisecrack",
+    "content": "Format YouTube Themen Philosophie, Zeitgeschehen, Kultur, Politik Wisecrack veröffentlicht wöchentlich Videos, die aktuelle Medien oder Ereignisse philosophisch einordnen. ",
+    "url": "/philo.html",
+    
+    "relUrl": "/philo.html"
+  },"60": {
+    "doc": "Philosophie",
+    "title": "Philosophy Tube",
+    "content": "Format YouTube Themen Philosophie Philosophie-Videos mit extravagentem Kostüm- und Set-Design. Der Name und die Thumbnails sprechen für sich. ",
+    "url": "/philo.html",
+    
+    "relUrl": "/philo.html"
+  },"61": {
+    "doc": "Philosophie",
+    "title": "Carefree Wandering",
+    "content": "Format YouTube Themen Philosophie Carefree Wandering macht Philosophie-Videos zu den Schwerpunkten Moral, Identität, und Systemtheorie. Außerdem hat er eine Video-Reihe zu Medientheorie herausgebracht. ",
+    "url": "/philo.html",
+    
+    "relUrl": "/philo.html"
+  },"62": {
+    "doc": "Philosophie",
+    "title": "1Dime",
+    "content": "Format YouTube, Podcast Themen Politik, Philosophie, Geschichte, Wirtschaft 1Dime’s Output ist relativ divers. Zwei nennenswerte Schwerpunkte sind Geld- und Demokratietheorie. Neben dem YouTube-Kanal gibt es den Podcast 1Dime Radio. ",
+    "url": "/philo.html",
+    
+    "relUrl": "/philo.html"
+  },"63": {
+    "doc": "Philosophie",
+    "title": "Alexander Avila",
+    "content": "Format YouTube Themen Patriarchat, Philosophie, Kultur Alexander Avila verpackt die Einsichten der unzugänglichsten Denker:innen in Nostalgie und Popkultur. ",
+    "url": "/philo.html",
+    
+    "relUrl": "/philo.html"
+  },"64": {
+    "doc": "Philosophie",
+    "title": "Then & Now",
+    "content": "Format YouTube Themen Philosophie, Geschichte Bei Then &amp; Now geht es hauptsächlich um Klassiker der Philosophie sowie um jüngere, zeitgeist-relevante Geschichte. ",
+    "url": "/philo.html",
+    
+    "relUrl": "/philo.html"
+  },"65": {
+    "doc": "Philosophie",
+    "title": "Revolutionary Left Radio",
+    "content": "Format YouTube, Podcast Themen Marxismus, Philosophie, Spiritualität/Religion, Geschichte | Early Christianity: Psychedelics, Ancient Greece, and the Emerging Church | . | Crossing the Threshold: The Post Kantian Process Philosophy of Schelling and Whitehead | . | Islam and Anarchism with Mohamed Abdou | . | Dialectics & Liberation: Insights from Buddhism and Marxism | . Revolutionary Left Radio ist ein linker Podcast, der genauso viel Wert auf Philosophie, Spiritualität und deren Geschichte legt, wie auf typisch politische Bildung. ",
+    "url": "/philo.html",
+    
+    "relUrl": "/philo.html"
+  },"66": {
+    "doc": "Philosophie",
+    "title": "The Marxist Project",
+    "content": "Format YouTube Themen Marxismus, Geschichte, Philosophie The Marxist Project macht verschiedene Video-Reihen zu Grundlagen des Marxismus, Marxismus nach Marx, Geschichte der Soviet Union etc. ",
+    "url": "/philo.html",
+    
+    "relUrl": "/philo.html"
+  },"67": {
+    "doc": "Philosophie",
+    "title": "Plastic Pills",
+    "content": "Format YouTube, Podcast Themen Philosophie, Geschichte Plastic Pills macht hauptsächlich Videos zu sogenannten postmodernen Theorien. Ein paar Videos zu lateinamerikanischer Geschichte bilden die Ausnahme. Außerdem betreibt Plastic Pills zusammen mit 3 weiteren Co-Hosts den Podcast Pill Pod. ",
+    "url": "/philo.html",
+    
+    "relUrl": "/philo.html"
+  },"68": {
+    "doc": "Philosophie",
+    "title": "Jonas Čeika - CCK Philosophy",
+    "content": "Format YouTube Themen Philosophie, Geschichte, Kultur, Politik Jonas Čeika - CCK Philosophy macht Videos über Kunst, Politik und Geschichte. Allein der deutschen Novemberrevolution von 1918-1919 hat er drei einstündige Videos gewidmet. ",
+    "url": "/philo.html",
+    
+    "relUrl": "/philo.html"
+  },"69": {
+    "doc": "Philosophie",
+    "title": "Why Theory",
+    "content": "Format Podcast Themen Philosophie, Kultur | Preface to Hegel's Phenomenology | . | Feminism & Psychoanalysis with Mari Ruti | . | Beyond Good and Evil | . | Barbie | . Why Theory ist ein Philosophie-Podcast mit Fokus auf deutschem Idealismus (insbesondere Hegel) und Psychoanalyse. Manchmal werden Filme oder Bücher analysiert. ",
+    "url": "/philo.html",
+    
+    "relUrl": "/philo.html"
+  },"70": {
+    "doc": "Philosophie",
+    "title": "Red Enlightenment",
+    "content": "Format Podcast Themen Philosophie, Spiritualität/Religion, Wissenschaft, Marxismus | Reclaiming Enlightenment | . | Spirituality | . | Science | . | Ethics | . Red Enlightenment ist eine 8-teilige Podcast mit dem Ziel, eine linke Spiritualität und Religionsoffenheit zu kultivieren. Spiritualität und Religion, so der Autor, adressieren Bedürfnisse, die durch materielle gesellschaftliche Transformation nicht gedeckt werden können. Somit sei es ein Fehler, sich davon abzuschotten, während Rechte sich dessen bedienen. Die Podcast ist nur auf Soundcloud erhältlich. ",
+    "url": "/philo.html",
+    
+    "relUrl": "/philo.html"
+  },"71": {
+    "doc": "Zeitgeschehen",
+    "title": "Zeitgeschehen",
+    "content": " ",
+    "url": "/zeitgeschehen.html",
+    
+    "relUrl": "/zeitgeschehen.html"
+  },"72": {
+    "doc": "Zeitgeschehen",
+    "title": "Wohlstand für Alle",
+    "content": "Format YouTube, Podcast Themen Zeitgeschehen, Politik, Wirtschaft, Kultur | Rettet das 9-Euro-Ticket! | . | Wie FUNK junge Leute verblödet | . | VOLT: die FDP für Hipster? | . | Ausverkauf der Ukraine: Was nach dem Krieg droht! | . Wohlstand für Alle ist ein Podcast zu aktuellen politischen und wirtschaftlichen Fragen. Außerdem gibt es jeden Monat eine Folge, in der berühmte literarische Werke besprochen werden. ",
+    "url": "/zeitgeschehen.html",
+    
+    "relUrl": "/zeitgeschehen.html"
+  },"73": {
+    "doc": "Zeitgeschehen",
+    "title": "Second Thought",
+    "content": "Format YouTube Themen Politik, Wirtschaft, Zeitgeschehen, Marxismus Second Thought macht Videos zu Politik, Wirtschaft und Zeitgeschehen aus marxistischer Perspektive. ",
+    "url": "/zeitgeschehen.html",
+    
+    "relUrl": "/zeitgeschehen.html"
+  },"74": {
+    "doc": "Zeitgeschehen",
+    "title": "Some More News",
+    "content": "Format YouTube, Podcast Themen Zeitgeschehen, Politik, Wirtschaft Some More News ist eine unabhängige Comedy-News-Show. Zusätzlich haben sie ein klassisches News-Podcast-Format namens Even More News. ",
+    "url": "/zeitgeschehen.html",
+    
+    "relUrl": "/zeitgeschehen.html"
+  },"75": {
+    "doc": "Zeitgeschehen",
+    "title": "Positive Leftist News",
+    "content": "Format YouTube Themen Zeitgeschehen Positive Leftist News ist eine Kollaboration vieler linker Creator. Sie wollen der Hoffnungslosigkeit entgegenwirken, die tendentiell eintritt, wenn man sich struktureller Probleme bewusst wird. ",
+    "url": "/zeitgeschehen.html",
+    
+    "relUrl": "/zeitgeschehen.html"
+  },"76": {
+    "doc": "Zeitgeschehen",
+    "title": "Wisecrack",
+    "content": "Format YouTube Themen Philosophie, Zeitgeschehen, Kultur, Politik Wisecrack veröffentlicht wöchentlich Videos, die aktuelle Medien oder Ereignisse philosophisch einordnen. ",
+    "url": "/zeitgeschehen.html",
+    
+    "relUrl": "/zeitgeschehen.html"
+  },"77": {
+    "doc": "Zeitgeschehen",
+    "title": "Tom Nicholas",
+    "content": "Format YouTube Themen Politik, Wirtschaft, Zeitgeschehen, Kultur, Geschichte Tom Nicholas macht politische Video-Essays zu aktuellen Trends und Kontroversen. ",
+    "url": "/zeitgeschehen.html",
+    
+    "relUrl": "/zeitgeschehen.html"
+  },"78": {
+    "doc": "Zeitgeschehen",
+    "title": "99 zu Eins",
+    "content": "Format YouTube, Podcast Themen Zeitgeschehen, Geschichte, Politik, Kultur, Marxismus, Anarchismus | The Zone of Interest - Kulturgedöns | . | Anarchismus & Marxismus - Voneinander lernen? | . | Zum Gaza-Krieg mit Nadim | . | [ENG] Postcolinialism? The Postcolonial Debate w/ Michael Kuhn | . 99 zu Eins ist ein linker Podcast zu Zeitgeschehen, Geschichte, Kultur und Theorie. ",
+    "url": "/zeitgeschehen.html",
+    
+    "relUrl": "/zeitgeschehen.html"
+  },"79": {
+    "doc": "Zeitgeschehen",
+    "title": "Übertage",
+    "content": "Format YouTube, Podcast Themen Zeitgeschehen, Anarchismus, Geschichte, Politik, Kultur | Fünf Säulen gegen die AFD - unsere Meinung | . | über den Kulturkampf | . | Überdeutlich: zum demokratischen Konföderalismus | . | Überblick: Wahlen im Osten, Generalstreik in Israel, Anschlag in München | . Übertage ist ein anarchistischer Podcast zu Zeitgeschehen, Geschichte, Kultur und Theorie. ",
+    "url": "/zeitgeschehen.html",
+    
+    "relUrl": "/zeitgeschehen.html"
   }
 }
