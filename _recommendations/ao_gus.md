@@ -1,6 +1,6 @@
 ---
 short_name: gus
-name: GuS
+name: Dario
 language: Deutsch
 youtube: https://www.youtube.com/@GuS200/featured
 topics: [Wirtschaft, Marxismus, Anarchismus]
@@ -10,4 +10,4 @@ vtwo: tmGDWgVEv5E
 vone: e20V6ARnk-w
 featured: true
 ---
-GuS (Gesellschaft und Sozialismus) ist ein deutschsprachiger Kanal, der die Basics des Sozialismus aus primär aber nicht exklusiv marxistischer Perspektive erklärt.
+Dario ist ein deutschsprachiger Kanal, der die Basics des Sozialismus aus primär aber nicht exklusiv marxistischer Perspektive erklärt.
