@@ -7,9 +7,9 @@ podcast:
 text:
 topics: [Patriarchat, Philosophie, Kultur]
 vone: Xi-HWyh0Ybk
-vtwo: 5yeyyEFp1J4
-vthree: QLWKYTxLYT4
-vfour: X5aI2AGvkb4
+vtwo: QLWKYTxLYT4
+vthree: X5aI2AGvkb4
+vfour: lRq0pESKJgg
 featured: true
 ---
 Alexander Avila verpackt die Einsichten der unzugänglichsten Denker:innen in Nostalgie und Popkultur.
