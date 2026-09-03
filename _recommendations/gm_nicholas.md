@@ -8,6 +8,5 @@ vfour: 2bq3SdfzcA4
 vthree: oAMM3l156Oo
 vtwo: Dum0bqWfiGw
 vone: v-8t0EfLzQo
-featured: true
 ---
 Tom Nicholas macht politische Video-Essays zu aktuellen Trends und Kontroversen.
