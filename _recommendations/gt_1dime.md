@@ -4,10 +4,11 @@ name: 1Dime
 language: Englisch
 youtube: https://www.youtube.com/@1Dimee/videos
 podcast: true
-topics: [Politik, Philosophie, Geschichte, Wirtschaft]
-vfour: 9ZCoLbEkAqs
-vthree: 1FIzoxAm2IU
-vtwo: o8d6Vzi7zYg
+topics: [Politik, Kultur, Philosophie, Geschichte, Wirtschaft]
+vfour: sLPoJZX61-A
+vthree: q8TyZw6rniI
+vtwo: 1FIzoxAm2IU
 vone: Hd_HIGMMKDA
+featured: true
 ---
 1Dime's Output ist relativ divers. Zwei nennenswerte Schwerpunkte sind Geld- und Demokratietheorie. Neben dem YouTube-Kanal gibt es den Podcast [1Dime Radio](https://www.youtube.com/@1DimeRadio/featured).
