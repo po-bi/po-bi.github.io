@@ -65,21 +65,20 @@ Themen
 </div>
 
 {% endif %}
+
 {% if rec.pone %}
-
-<table>
-<tr><td>{{ rec.pone }}</td></tr>
-{% if rec.ptwo %}
-<tr><td>{{ rec.ptwo }}</td></tr>
-{% endif %}
-{% if rec.pthree %}
-<tr><td>{{ rec.pthree }}</td></tr>
-{% endif %}
-{% if rec.pfour %}
-<tr><td>{{ rec.pfour }}</td></tr>
-{% endif %}
+<table class="podcast-table">
+	<tr><td>{{ rec.pone | markdownify }}</td></tr>
+	{% if rec.ptwo %}
+	<tr><td>{{ rec.ptwo | markdownify }}</td></tr>
+	{% endif %}
+	{% if rec.pthree %}
+	<tr><td>{{ rec.pthree | markdownify }}</td></tr>
+	{% endif %}
+	{% if rec.pfour %}
+	<tr><td>{{ rec.pfour | markdownify }}</td></tr>
+	{% endif %}
 </table>
-
 {% endif %}
 
 

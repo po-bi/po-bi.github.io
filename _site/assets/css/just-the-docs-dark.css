@@ -7645,6 +7645,10 @@ dt {
   max-width: 5.2em;
 }
 
+.podcast-table td > p {
+  margin: 0;
+}
+
 /* You can also use calc() for a more dynamic width calculation */
 
 /*# sourceMappingURL=just-the-docs-dark.css.map */
